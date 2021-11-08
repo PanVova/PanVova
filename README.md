@@ -1,13 +1,13 @@
 # 😎My projects😎:
 
- ## 👻 Android :
+ ## 👻 Android
    - [Note](https://github.com/PanVova/Note-java-android)
    - [SpeedSolver](https://github.com/PanVova/SpeedSolver-Java-android)
    - [JustSavings](https://github.com/PanVova/JustSavings-Java-android)
    - [WeatherApp](https://github.com/PanVova/Weather-App-Kotlin)
 
 -----
- ## 🎩 C++:
+ ## 🎩 C++
   - [Battery Man](https://github.com/PanVova/Battery-Man-CPP-UE4)
   - [TwinStick Shooter](https://github.com/PanVova/TwinStick-Shooter-CPP-UE4)
   - [Threads and STL](https://github.com/PanVova/Threads-and-STL-CPP)
@@ -21,12 +21,12 @@
   - [ProductCart](https://github.com/PanVova/ProductCart-CPP-QT)
 
 -----
- ## ☀️Java:
+ ## ☀️Java
   - [The adventure of small boy](https://github.com/PanVova/The-adventure-of-small-boy-java)
   - [Bulls and Cows](https://github.com/PanVova/BullsAndCows-Java-TelegramAPI)
 
 -----
- ## 🌶Python:
+ ## 🌶Python
   - [MyBooks](https://github.com/PanVova/MyBooks-Python-Tkinter)
   - [Badoo auto swiper](https://github.com/PanVova/BadooAutoSwiper-Python)
   - [TranslatorBot](https://github.com/PanVova/TranslatorBot-Python)
