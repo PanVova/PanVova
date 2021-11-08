@@ -1,4 +1,4 @@
-# My list of projects for each category:
+# 😎My projects😎:
 
  ## 👻 Android :
    - [Note](https://github.com/PanVova/Note-java-android)
