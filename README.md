@@ -5,6 +5,7 @@
    - [SpeedSolver](https://github.com/PanVova/SpeedSolver-Java-android)
    - [JustSavings](https://github.com/PanVova/JustSavings-Java-android)
    - [WeatherApp](https://github.com/PanVova/Weather-App-Kotlin)
+   - [RxJava2](https://github.com/PanVova/RxJava)
 
 -----
  ## 🎩 C++
