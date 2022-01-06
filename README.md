@@ -6,6 +6,9 @@
    - [JustSavings](https://github.com/PanVova/JustSavings-Java-android)
    - [WeatherApp](https://github.com/PanVova/Weather-App-Kotlin)
    - [RxJava2](https://github.com/PanVova/RxJava)
+   - [ConductorExample](https://github.com/PanVova/Conductor-Example)
+   - [WeatherAppMVI](https://github.com/PanVova/Weather-App-MVI)
+
 
 -----
  ## 🎩 C++
