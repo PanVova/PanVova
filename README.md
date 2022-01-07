@@ -8,6 +8,7 @@
    - [RxJava2](https://github.com/PanVova/RxJava)
    - [ConductorExample](https://github.com/PanVova/Conductor-Example)
    - [WeatherAppMVI](https://github.com/PanVova/Weather-App-MVI)
+   - [Custom-View](https://github.com/PanVova/Custom-View)
 
 
 -----
