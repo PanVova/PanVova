@@ -9,6 +9,8 @@
    - [ConductorExample](https://github.com/PanVova/Conductor-Example)
    - [WeatherAppMVI](https://github.com/PanVova/Weather-App-MVI)
    - [Custom View](https://github.com/PanVova/Custom-View)
+   - [Rick&Morty](https://github.com/PanVova/Rick-Morty-Android)
+   - [QuizApp](https://github.com/PanVova/QuizApp)
 
 
 -----
