@@ -1,5 +1,13 @@
-# 😎My projects😎:
+<h1 align="center">Welcome to my github there you can see my knowledges, my achievements</h1>
 
+<div align="center">
+    <img src="https://github.com/PanVova/PanVova/blob/main/leetCode.PNG" alt="visitors">
+</div>
+
+<h1 align="center">😎My projects😎</h1>
+
+<table><tr><td width="100%" valign="top">
+ 
  ## 👻 Android
    - [Note](https://github.com/PanVova/Note-java-android)
    - [SpeedSolver](https://github.com/PanVova/SpeedSolver-Java-android)
@@ -11,9 +19,9 @@
    - [Custom View](https://github.com/PanVova/Custom-View)
    - [Rick&Morty](https://github.com/PanVova/Rick-Morty-Android)
    - [QuizApp](https://github.com/PanVova/QuizApp)
+</td><td  valign="top" width="50%">
 
-
------
+ 
  ## 🎩 C++
   - [Battery Man](https://github.com/PanVova/Battery-Man-CPP-UE4)
   - [TwinStick Shooter](https://github.com/PanVova/TwinStick-Shooter-CPP-UE4)
@@ -26,13 +34,13 @@
   - [EpicMath](https://github.com/PanVova/Epic-Math-CPP-QT)
   - [STL Structures](https://github.com/PanVova/STL_Structures-CPP)
   - [ProductCart](https://github.com/PanVova/ProductCart-CPP-QT)
-
------
+</td><td valign="top" width="50%">
+ 
  ## ☀️Java
   - [The adventure of small boy](https://github.com/PanVova/The-adventure-of-small-boy-java)
   - [Bulls and Cows](https://github.com/PanVova/BullsAndCows-Java-TelegramAPI)
-
------
+</td><td valign="top" width="50%">
+ 
  ## 🌶Python
   - [MyBooks](https://github.com/PanVova/MyBooks-Python-Tkinter)
   - [Badoo auto swiper](https://github.com/PanVova/BadooAutoSwiper-Python)
@@ -42,3 +50,4 @@
   - [TranslatorBotTelegram](https://github.com/PanVova/TranslatorBotTelegram-Python)
   - [CoronavirusBot](https://github.com/PanVova/CoronavirusBot-Python)
   - [MacPawTask](https://github.com/PanVova/MacPawTask-Python)
+</td></tr></table>
