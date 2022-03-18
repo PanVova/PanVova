@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my github there you can see my knowledges, my achievements</h1>
+<h1 align="center">😎LeetCode😎</h1>
 
 <div align="center">
     <img src="https://github.com/PanVova/PanVova/blob/main/leetCode.PNG" alt="visitors">
