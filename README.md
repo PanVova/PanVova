@@ -20,6 +20,7 @@
    - [Rick&Morty](https://github.com/PanVova/Rick-Morty-Android)
    - [QuizApp](https://github.com/PanVova/QuizApp)
    - [WorkManager](https://github.com/PanVova/WorkManager)
+   - [WeatherApiHilt](https://github.com/PanVova/WeatherAPI-Hilt)
 </td><td  valign="top" width="50%">
 
  
