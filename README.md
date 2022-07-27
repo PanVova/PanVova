@@ -23,6 +23,7 @@
    - [WorkManager](https://github.com/PanVova/WorkManager)
    - [ComposeScreens](https://github.com/PanVova/Compose-Screens)
    - [FileTemplateModule](https://github.com/PanVova/FileTemplateModule)
+   - [Android Widget](https://github.com/PanVova/BroadcastWidgetExample)
 
 </td><td  valign="top" width="50%">
 
