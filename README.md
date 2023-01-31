@@ -10,9 +10,9 @@
 
 | Projects  | Test Techonologies |
 | ------------- | ------------- |
-| [WeatherApp](https://github.com/PanVova/WeatherAPI-Hilt)  | [RxJava2](https://github.com/PanVova/RxJava)  |
+| [WeatherApp-Hilt-Dagger2-Anvil](https://github.com/PanVova/WeatherAPI-Hilt)  | [RxJava2](https://github.com/PanVova/RxJava)  |
 | [WeatherAppMVI](https://github.com/PanVova/Weather-App-MVI)  | [ConductorExample](https://github.com/PanVova/Conductor-Example)  |
-| [WeatherAppOld](https://github.com/PanVova/Weather-App-Kotlin)  | [Android Widget](https://github.com/PanVova/BroadcastWidgetExample) |
+| [WeatherAppMVVM](https://github.com/PanVova/Weather-App-Kotlin)  | [Android Widget](https://github.com/PanVova/BroadcastWidgetExample) |
 | [Rick&Morty](https://github.com/PanVova/Rick-Morty-Android)  | [Custom View](https://github.com/PanVova/Custom-View)  |
 | [QuizApp](https://github.com/PanVova/QuizApp)  | [WorkManager](https://github.com/PanVova/WorkManager)  |
 | [JustSavings [JAVA]](https://github.com/PanVova/JustSavings-Java-android)  | [ComposeScreens](https://github.com/PanVova/Compose-Screens)  |
