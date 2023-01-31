@@ -9,9 +9,6 @@
 <table><tr><td width="100%" valign="top">
  
  ## 👻 Android
-   - [Note](https://github.com/PanVova/Note-java-android)
-   - [SpeedSolver](https://github.com/PanVova/SpeedSolver-Java-android)
-   - [JustSavings](https://github.com/PanVova/JustSavings-Java-android)
    - [WeatherApp](https://github.com/PanVova/WeatherAPI-Hilt)
    - [RxJava2](https://github.com/PanVova/RxJava)
    - [ConductorExample](https://github.com/PanVova/Conductor-Example)
@@ -24,6 +21,9 @@
    - [ComposeScreens](https://github.com/PanVova/Compose-Screens)
    - [FileTemplateModule](https://github.com/PanVova/FileTemplateModule)
    - [Android Widget](https://github.com/PanVova/BroadcastWidgetExample)
+   - [JustSavings](https://github.com/PanVova/JustSavings-Java-android)
+   - [Note [JAVA-OLD]](https://github.com/PanVova/Note-java-android)
+   - [SpeedSolver [JAVA-OLD]](https://github.com/PanVova/SpeedSolver-Java-android)
 
 </td><td  valign="top" width="50%">
 
