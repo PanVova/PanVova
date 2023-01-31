@@ -5,27 +5,26 @@
 </div>
 
 <h1 align="center">😎My projects😎</h1>
-
-<table><tr><td width="100%" valign="top">
  
  ## 👻 Android
-   - [WeatherApp](https://github.com/PanVova/WeatherAPI-Hilt)
-   - [RxJava2](https://github.com/PanVova/RxJava)
-   - [ConductorExample](https://github.com/PanVova/Conductor-Example)
-   - [WeatherAppMVI](https://github.com/PanVova/Weather-App-MVI)
-   - [WeatherAppOld](https://github.com/PanVova/Weather-App-Kotlin)
-   - [Custom View](https://github.com/PanVova/Custom-View)
-   - [Rick&Morty](https://github.com/PanVova/Rick-Morty-Android)
-   - [QuizApp](https://github.com/PanVova/QuizApp)
-   - [WorkManager](https://github.com/PanVova/WorkManager)
-   - [ComposeScreens](https://github.com/PanVova/Compose-Screens)
-   - [FileTemplateModule](https://github.com/PanVova/FileTemplateModule)
-   - [Android Widget](https://github.com/PanVova/BroadcastWidgetExample)
-   - [JustSavings](https://github.com/PanVova/JustSavings-Java-android)
-   - [Note [JAVA-OLD]](https://github.com/PanVova/Note-java-android)
-   - [SpeedSolver [JAVA-OLD]](https://github.com/PanVova/SpeedSolver-Java-android)
 
-</td><td  valign="top" width="50%">
+| Projects  | Test Techonologies |
+| ------------- | ------------- |
+| [WeatherApp](https://github.com/PanVova/WeatherAPI-Hilt)  | [RxJava2](https://github.com/PanVova/RxJava)  |
+| [WeatherAppMVI](https://github.com/PanVova/Weather-App-MVI)  | [ConductorExample](https://github.com/PanVova/Conductor-Example)  |
+| [WeatherAppOld](https://github.com/PanVova/Weather-App-Kotlin)  | [Android Widget](https://github.com/PanVova/BroadcastWidgetExample) |
+| [Rick&Morty](https://github.com/PanVova/Rick-Morty-Android)  | [Custom View](https://github.com/PanVova/Custom-View)  |
+| [QuizApp](https://github.com/PanVova/QuizApp)  | [WorkManager](https://github.com/PanVova/WorkManager)  |
+| [JustSavings](https://github.com/PanVova/JustSavings-Java-android)  | [ComposeScreens](https://github.com/PanVova/Compose-Screens)  |
+| [Note [JAVA]](https://github.com/PanVova/Note-java-android)  | [FileTemplateModule](https://github.com/PanVova/FileTemplateModule)  |
+| [SpeedSolver [JAVA]](https://github.com/PanVova/SpeedSolver-Java-android)  |
+
+
+
+Other languages:
+
+<table>
+ <td  valign="top" width="50%">
 
  
  ## 🎩 C++
@@ -41,13 +40,15 @@
   - [STL Structures](https://github.com/PanVova/STL_Structures-CPP)
   - [ProductCart](https://github.com/PanVova/ProductCart-CPP-QT)
 </td><td valign="top" width="50%">
+
  
- ## ☀️Java
+ ## ☀️ Java
   - [The adventure of small boy](https://github.com/PanVova/The-adventure-of-small-boy-java)
   - [Bulls and Cows](https://github.com/PanVova/BullsAndCows-Java-TelegramAPI)
 </td><td valign="top" width="50%">
- 
- ## 🌶Python
+    
+    
+ ## 🌶 Python
   - [MyBooks](https://github.com/PanVova/MyBooks-Python-Tkinter)
   - [Badoo auto swiper](https://github.com/PanVova/BadooAutoSwiper-Python)
   - [TranslatorBot](https://github.com/PanVova/TranslatorBot-Python)
@@ -57,3 +58,4 @@
   - [CoronavirusBot](https://github.com/PanVova/CoronavirusBot-Python)
   - [MacPawTask](https://github.com/PanVova/MacPawTask-Python)
 </td></tr></table>
+
