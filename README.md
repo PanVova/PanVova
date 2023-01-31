@@ -15,7 +15,7 @@
 | [WeatherAppOld](https://github.com/PanVova/Weather-App-Kotlin)  | [Android Widget](https://github.com/PanVova/BroadcastWidgetExample) |
 | [Rick&Morty](https://github.com/PanVova/Rick-Morty-Android)  | [Custom View](https://github.com/PanVova/Custom-View)  |
 | [QuizApp](https://github.com/PanVova/QuizApp)  | [WorkManager](https://github.com/PanVova/WorkManager)  |
-| [JustSavings](https://github.com/PanVova/JustSavings-Java-android)  | [ComposeScreens](https://github.com/PanVova/Compose-Screens)  |
+| [JustSavings [JAVA]](https://github.com/PanVova/JustSavings-Java-android)  | [ComposeScreens](https://github.com/PanVova/Compose-Screens)  |
 | [Note [JAVA]](https://github.com/PanVova/Note-java-android)  | [FileTemplateModule](https://github.com/PanVova/FileTemplateModule)  |
 | [SpeedSolver [JAVA]](https://github.com/PanVova/SpeedSolver-Java-android)  |
 
