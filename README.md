@@ -1,18 +1,16 @@
 
 <h1 align="center">About Me</h1>
 
-Developed and maintained GOAT's Android app, ensuring it provides a seamless user experience for customers worldwide.
-
-Actively participate in code reviews and suggest improvements to maintain high code quality and a consistent code style across the Android team. Proactively suggest new features and improvements to enhance the app's 
-functionality and user experience.
-
-
-Contributed to the growth of the app's user base, resulting in 5 million+ downloads and a 4.2-star rating on the Google Play Store.
-
-As an Experienced Android Engineer, I'm passionate about creating innovative and user-centric applications. I thrive in challenging environments and constantly seek to push the boundaries of technology.
-
-
-Over 100+ solved problems on LeetCode
+Android developer with 5+ years of experience 
+designing and building native Android 
+applications using Java and Kotlin. Excellent 
+understanding of the Android OS, its 
+architecture and SDK, uses-permission, 
+functions of incoming and outgoing calls. 
+Experience with MVVM/MVP/MVI as well as 
+Git and other version control tools. I am able 
+to work on a problem from the design and 
+architecture level of the solution.
 
 <h1 align="center">My Projects</h1>
 
